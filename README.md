@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![](https://raw.githubusercontent.com/Hanze-C/Hanze-C/output/assets/github-contribution-grid-snake.svg)
 
-[![My Skills](https://skillicons.dev/icons?i=html,php,md,discord,github,instagram,netlify,twitter,vercel,vscode,wordpress,workers&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,php,md,discord,github,instagram,netlify,twitter,vercel,vscode,wordpress,workers&perline=8)](https://skillicons.dev)
